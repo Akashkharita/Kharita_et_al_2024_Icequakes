@@ -21,3 +21,6 @@ Discrimination between Icequakes and Earthquakes in Southeast Alaska
 
  
 ### Description of tasks of Jupyter Notebooks
+
+
+##### AK_Tsfresh_vs_AFS_features.ipynb - 
