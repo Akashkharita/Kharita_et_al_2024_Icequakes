@@ -10,6 +10,7 @@ Discrimination between Icequakes and Earthquakes in Southeast Alaska
 5) Scikit-Learn
 6) tqdm
 7) tsfresh
+8) PyGMT (optional)
 
 
 ### Naming convention of waveforms
