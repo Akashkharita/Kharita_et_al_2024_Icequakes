@@ -26,4 +26,7 @@ Discrimination between Icequakes and Earthquakes in Southeast Alaska
 
 **AK_Tsfresh_vs_AFS_features.ipynb** - This jupyter notebook shows the feature extraction process. 784 statistical features were extracted from each waveform (5 minutes in duration) at each station. Since it is a time consuming process, it is wise to write these features on the disk. Similarly, Fourier Amplitude Spectrum (FAS) of each waveform was computed and saved.Then the random forest was applied on both sets of features individually at different stations. 50 iterations were performed to compute the mean accuracy and the performance for both sets of features was compared. It was found that FAS outperform features extracted using Tsfresh. 
 
+**AK_Final_Model.ipynb**  - This jupyter notebook contains - (i) Confusion matrix and other metrics for the RF model trained on the combined data from top performing best 7 stations (Multi-station RF). (ii) comparison of f1-scores of RF model on individual stations and multistation RF, (iii) confusion matrix for the individual station and (iv) Geographical Map showing stations color coded and size coded according to accuracies and amount of data. 
+
+
 
