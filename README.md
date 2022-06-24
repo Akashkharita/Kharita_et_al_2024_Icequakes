@@ -20,4 +20,4 @@ Discrimination between Icequakes and Earthquakes in Southeast Alaska
 3) Same naming convention applies for the earthquake waveforms
 
  
-
+### Description of tasks of Jupyter Notebooks
