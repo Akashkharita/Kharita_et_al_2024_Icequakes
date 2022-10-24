@@ -1,0 +1,18 @@
+0_Absolute energy
+0_Area under the curve
+0_Autocorrelation
+0_Centroid
+0_Entropy
+0_Mean absolute diff
+0_Mean diff
+0_Median absolute diff
+0_Median diff
+0_Negative turning points
+0_Neighbourhood peaks
+0_Peak to peak distance
+0_Positive turning points
+0_Signal distance
+0_Slope
+0_Sum absolute diff
+0_Total energy
+0_Zero crossing rate

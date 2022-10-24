@@ -1,0 +1,36 @@
+0_ECDF Percentile Count_0
+0_ECDF Percentile Count_1
+0_ECDF Percentile_0
+0_ECDF Percentile_1
+0_ECDF_0
+0_ECDF_1
+0_ECDF_2
+0_ECDF_3
+0_ECDF_4
+0_ECDF_5
+0_ECDF_6
+0_ECDF_7
+0_ECDF_8
+0_ECDF_9
+0_Histogram_0
+0_Histogram_1
+0_Histogram_2
+0_Histogram_3
+0_Histogram_4
+0_Histogram_5
+0_Histogram_6
+0_Histogram_7
+0_Histogram_8
+0_Histogram_9
+0_Interquartile range
+0_Kurtosis
+0_Max
+0_Mean
+0_Mean absolute deviation
+0_Median
+0_Median absolute deviation
+0_Min
+0_Root mean square
+0_Skewness
+0_Standard deviation
+0_Variance
