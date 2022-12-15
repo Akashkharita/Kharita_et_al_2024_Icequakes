@@ -1,5 +1,5 @@
 # Icequake_Earthquake_Discrimination
-This github repository contains all the jupyter notebooks for the ongoing work about *"Multi Stations Analysis of Icequakes and Earthquakes in Southern Alaska"*
+This github repository contains all the jupyter notebooks for the ongoing work about **"Multi Stations Analysis of Icequakes and Earthquakes in Southern Alaska"**. 
 
 ### Necessary Dependencies
 
@@ -9,8 +9,19 @@ This github repository contains all the jupyter notebooks for the ongoing work a
 4) Scipy
 5) Scikit-Learn
 6) tqdm
-7) tsfresh
+7) tsfel
 8) PyGMT (optional)
+
+
+# Objective - 
+1) To assess the machine learning models to automatically discriminate icequakes and earthquakes in the southern Alaska.
+2) To explore the performance of different feature space. 
+3) To explore the transferability of machine learning model. 
+
+# Data - 
+Waveforms corresponding to all the icequakes between 2005 and 2022 and located within 50 km radius of the Columbia glacier available in the USGS ANSS catalog was downloaded at 15 stations located within 100 km of the Columbia glacier. This resulted in around 2650 icequakes. An earthquake catalog between the magnitudes of 0 to 3 and depth range of 0 to 100 km was also downloaded. To maintain the class balance, only the latest 3000 earthquakes were selected. As the stations were deployed at different data and for different amount of duration, the data availability varies from station to station. 
+
+
 
 
 ### Naming convention of waveforms
