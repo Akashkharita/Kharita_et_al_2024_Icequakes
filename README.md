@@ -1,5 +1,5 @@
 # Icequake_Earthquake_Discrimination
-Discrimination between Icequakes and Earthquakes in Southeast Alaska 
+This github repository contains all the jupyter notebooks for the ongoing work about *"Multi Stations Analysis of Icequakes and Earthquakes in Southern Alaska"*
 
 ### Necessary Dependencies
 
