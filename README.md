@@ -1,3 +1,5 @@
+Hello, This is just a test!! - Akash Kharita
+
 # Icequake_Earthquake_Discrimination
 This github repository contains all the jupyter notebooks for the ongoing work about **"Multi Stations Analysis of Icequakes and Earthquakes in Southern Alaska"**. 
 
