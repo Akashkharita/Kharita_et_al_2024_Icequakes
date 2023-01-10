@@ -1,19 +1,12 @@
-Hello, This is just a test!! - Akash Kharita
 
 # Icequake_Earthquake_Discrimination
 This github repository contains all the jupyter notebooks for the ongoing work about **"Multi Stations Analysis of Icequakes and Earthquakes in Southern Alaska"**. 
 
-### Necessary Dependencies
 
-1) Numpy
-2) Matplotlib
-3) Obspy
-4) Scipy
-5) Scikit-Learn
-6) tqdm
-7) tsfel
-8) PyGMT (optional)
+### Creating the environment
+To run the jupyter notebooks, one has to create an environment using 
 
+conda env create -f iq_vs_tq_environment.yml
 
 ### Objective - 
 1) To assess the machine learning models to automatically discriminate icequakes and earthquakes in the southern Alaska.
