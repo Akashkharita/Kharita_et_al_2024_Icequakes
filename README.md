@@ -14,10 +14,11 @@ To run the jupyter notebooks, one has to create an environment using
 3) To explore the transferability of machine learning model. 
 
 ### Data - 
-Waveforms corresponding to all the icequakes between 2005 and 2022 and located within 50 km radius of the Columbia glacier available in the USGS ANSS catalog was downloaded at 15 stations located within 100 km of the Columbia glacier. This resulted in around 2650 icequakes. An earthquake catalog between the magnitudes of 0 to 3 and depth range of 0 to 100 km was also downloaded. To maintain the class balance, only the latest 3000 earthquakes were selected. As the stations were deployed at different data and for different amount of duration, the data availability varies from station to station. Overall number of waveforms equal to 43k. 
+Waveforms corresponding to all the icequakes between 2005 and 2022 and located within 50 km radius of the Columbia glacier available in the USGS ANSS catalog was downloaded at 15 stations located within 100 km of the Columbia glacier. This resulted in around 2650 icequakes. An earthquake catalog between the magnitudes of 0 to 3 and depth range of 0 to 100 km was also downloaded. To maintain the class balance, only the latest 3000 earthquakes were selected. As the stations were deployed at different dates and for different amount of duration, the data availability varies from station to station. Overall number of waveforms equal to 43k. The data should be downloaded from here before running jupyter notebooks - 
 
 ### Method 
-We extracted features from the waveforms one minute in duration
+
+All the waveforms are detrended, tapered (by 10%) and filtered between (0.5-25 Hz) followed by removal of instrument response. Features are then extracted from the processed waveforms using TSFEL feature extraction library for various duration between 15, 30, 45s, 1 and 2 minutes. The duration was computed using obspy.taup program with iaspei-91 velocity model. Different sort of features (statistical, temporal, and spectral features were extracted) and their performances was compared. All the code for extracting features can be found in  - **tsfel_feature_extraction.py**
 
 
 
