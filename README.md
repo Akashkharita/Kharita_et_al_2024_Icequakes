@@ -13,7 +13,7 @@ To run the jupyter notebooks, one has to create an environment using
 2) To explore the performance of different feature space. 
 3) To explore the transferability of machine learning model. 
 
-### Data - 
+### Data 
 Waveforms corresponding to all the icequakes between 2005 and 2022 and located within 50 km radius of the Columbia glacier available in the USGS ANSS catalog was downloaded at 15 stations located within 100 km of the Columbia glacier. This resulted in around 2650 icequakes. An earthquake catalog between the magnitudes of 0 to 3 and depth range of 0 to 100 km was also downloaded. To maintain the class balance, only the latest 3000 earthquakes were selected. As the stations were deployed at different dates and for different amount of duration, the data availability varies from station to station. Overall number of waveforms equal to 43k. The data should be downloaded from here before running jupyter notebooks - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7523349.svg)](https://doi.org/10.5281/zenodo.7523349)
 
 ### Method 
