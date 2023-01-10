@@ -18,7 +18,7 @@ Waveforms corresponding to all the icequakes between 2005 and 2022 and located w
 
 ### Method 
 
-All the waveforms are detrended, tapered (by 10%) and filtered between (0.5-25 Hz) followed by removal of instrument response. Features are then extracted from the processed waveforms using TSFEL feature extraction library for various duration between 15, 30, 45s, 1 and 2 minutes. The duration was computed using obspy.taup program with iaspei-91 velocity model. Different sort of features (statistical, temporal, and spectral features were extracted) and their performances was compared. All the code for extracting features can be found in  - **tsfel_feature_extraction.py**
+All the waveforms are detrended, tapered (by 10%) and filtered between (0.5-25 Hz) followed by removal of instrument response. Features are then extracted from the processed waveforms using TSFEL feature extraction library for various duration between 15, 30, 45s, 1 and 2 minutes. The duration was computed using obspy.taup program with iaspei-91 velocity model. Different sort of features (statistical, temporal, and spectral features were extracted) and their performances was compared. All the code for extracting features can be found in  - **[tsfel_feature_extraction.py](https://github.com/Akashkharita/Icequake_Earthquake_Discrimination/blob/main/tsfel_raw_data_feature_extraction.py)**
 
 
 
