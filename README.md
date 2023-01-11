@@ -39,6 +39,10 @@ This notebook shows the comparison of performances (accuracy, sensitivity and sp
 This notebook shows the performance of a machine learning model trained on one station and tested on the another using "all" features for 1 minute duration of the waveforms. Further it contains codes for showing the waveforms and spectrograms for stations in each group. 
 
 **[Final duration_testing](https://github.com/Akashkharita/Icequake_Earthquake_Discrimination/blob/main/Final_duration_testing.ipynb)**
+This notebook shows the performance with different durations (15, 30, 45s, 1min and 2minutes). 30s appear to produce best results, Performance in general decreases with increasing duration, however there isnt any significant difference in the results. 
+
+**[Final_missclassified_events](https://github.com/Akashkharita/Icequake_Earthquake_Discrimination/blob/main/Final_misclassified_events.ipynb))**
+This notebook contains the code to plot the missclassified event along with the prediction probabilities. Two type of plots - first plot is of missclassified events only, second plot contains all the plots with prediction probabilities less than 0.5. 
 
 
 
