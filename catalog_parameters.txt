@@ -1,7 +1,0 @@
-USGS ANSS event catalog
-Location centre: 61.219722, -146.895278
-Location radius: 50 Km
-Icequakes magnitude range: 0-10
-Earthquakes magnitude range: 0-3
-Starttime : 2005-04-07
-Endtime : 2022-04-14
