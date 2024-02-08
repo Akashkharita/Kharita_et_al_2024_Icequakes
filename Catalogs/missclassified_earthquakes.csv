@@ -1,0 +1,73 @@
+,time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource,No_of_stations
+0,2022-04-14T06:16:53.166Z,61.3343,-147.7792,1.9,1.3,ml,,,,0.86,ak,ak0224s3k8jo,2022-04-14T06:27:19.538Z,"53 km S of Glacier View, Alaska",earthquake,,1.3,,,automatic,ak,ak,5
+1,2022-04-13T23:55:39.161Z,61.3596,-147.6063,0.0,1.4,ml,,,,0.9,ak,ak0224qqdl4b,2022-04-13T23:59:09.821Z,"50 km S of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak,5
+15,2022-04-03T05:49:06.541Z,61.1399,-146.9206,0.0,1.8,ml,,,,1.34,ak,ak02249w8yki,2022-04-03T05:51:41.602Z,"30 km W of Valdez, Alaska",earthquake,,0.8,,,automatic,ak,ak,9
+153,2022-01-31T04:36:15.740Z,61.184,-146.4196,15.3,1.0,ml,,,,0.53,ak,ak0221fc98pc,2022-02-25T00:15:02.416Z,"7 km NNW of Valdez, Alaska",earthquake,,0.7,,,reviewed,ak,ak,3
+159,2022-01-29T19:05:23.484Z,61.2012,-146.4251,14.8,1.2,ml,,,,0.7,ak,ak0221c9xf7g,2022-02-24T23:57:56.129Z,Southern Alaska,earthquake,,0.3,,,reviewed,ak,ak,3
+176,2022-01-22T18:53:08.741Z,61.5128,-146.6273,28.5,1.1,ml,,,,0.4,ak,ak02210outdm,2022-02-17T01:41:37.441Z,"45 km NNW of Valdez, Alaska",earthquake,,1.3,,,reviewed,ak,ak,3
+257,2021-12-20T18:00:58.140Z,61.0547,-147.7425,0.0,1.3,ml,,,,0.42,ak,ak021g9qyqkv,2021-12-20T18:49:43.498Z,"59 km ENE of Whittier, Alaska",earthquake,,0.0,,,reviewed,ak,ak,7
+339,2021-11-15T01:40:21.275Z,61.1448,-147.2761,5.9,1.0,ml,,,,0.59,ak,ak021enl9reu,2021-12-16T00:55:25.523Z,"44 km NW of Tatitlek, Alaska",earthquake,,0.3,,,reviewed,ak,ak,6
+438,2021-09-25T22:31:38.181Z,61.0743,-147.6099,4.0,1.0,ml,,,,0.42,ak,ak021cblb3qc,2021-09-26T00:40:49.484Z,"55 km WNW of Tatitlek, Alaska",earthquake,,1.4,,,reviewed,ak,ak,5
+441,2021-09-23T13:13:24.430Z,61.2895,-147.7672,0.0,1.1,ml,,,,0.63,ak,ak021c84rsez,2021-10-19T02:57:32.779Z,"58 km S of Glacier View, Alaska",earthquake,,0.0,,,reviewed,ak,ak,5
+453,2021-09-13T11:04:56.390Z,61.3501,-147.3067,10.5,1.2,ml,,,,0.64,ak,ak021brk5laf,2021-10-01T19:38:37.233Z,"54 km SSE of Glacier View, Alaska",earthquake,,0.4,,,reviewed,ak,ak,3
+495,2021-08-31T02:18:23.700Z,61.6352,-146.7975,0.0,1.4,ml,,,,1.31,ak,ak021b5ww3x9,2021-08-31T02:30:58.643Z,"39 km SSE of Eureka Roadhouse, Alaska",earthquake,,1.2,,,automatic,ak,ak,8
+517,2021-08-22T13:24:46.335Z,61.263,-147.1774,0.6,1.2,ml,,,,0.33,ak,ak021ar7n3fz,2021-09-03T19:36:53.150Z,"46 km WNW of Valdez, Alaska",earthquake,,0.8,,,reviewed,ak,ak,8
+542,2021-08-13T01:51:48.775Z,61.5351,-146.5865,38.3,1.1,ml,,,,0.43,ak,ak021ac4tjzx,2021-08-24T17:03:28.884Z,"46 km NNW of Valdez, Alaska",earthquake,,0.5,,,reviewed,ak,ak,3
+563,2021-08-01T23:20:22.828Z,61.2389,-147.5007,4.9,1.3,ml,,,,0.8,ak,ak0219sna86i,2021-08-01T23:47:14.788Z,"60 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak,7
+564,2021-08-01T16:11:44.164Z,61.2152,-147.441,0.0,1.1,ml,,,,1.15,ak,ak0219sj2b5k,2021-08-01T16:16:41.833Z,"56 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak,8
+565,2021-08-01T12:09:05.807Z,61.1701,-147.6241,25.7,0.9,ml,,,,0.74,ak,ak0219sgnxut,2021-08-01T19:03:36.282Z,"61 km WNW of Tatitlek, Alaska",earthquake,,7.9,,,reviewed,ak,ak,11
+575,2021-07-28T18:16:07.868Z,61.2222,-147.2565,49.8,1.8,ml,,,,1.71,ak,ak0219ly4s5u,2021-07-28T18:19:14.431Z,"49 km WNW of Valdez, Alaska",earthquake,,1.2,,,automatic,ak,ak,11
+663,2021-06-06T11:37:05.011Z,61.3308,-147.7687,4.0,1.2,ml,,,,1.41,ak,ak02177u56ty,2021-06-06T16:52:18.167Z,"53 km S of Glacier View, Alaska",earthquake,,0.7,,,reviewed,ak,ak,7
+666,2021-06-05T03:03:11.176Z,61.3136,-147.6122,2.2,1.3,ml,,,,0.77,ak,ak021761mzv4,2021-06-05T04:00:16.370Z,"55 km S of Glacier View, Alaska",earthquake,,0.8,,,reviewed,ak,ak,11
+669,2021-06-04T00:15:27.328Z,61.193,-147.0136,0.0,1.9,ml,,,,0.91,ak,ak02174ce2e2,2021-06-04T00:23:41.462Z,"36 km W of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak,7
+694,2021-05-25T12:38:14.058Z,61.1772,-146.8947,0.0,1.3,ml,,,,0.7,ak,ak0216o0ap5p,2021-06-02T21:17:03.305Z,"29 km W of Valdez, Alaska",earthquake,,1.0,,,automatic,ak,ak,10
+698,2021-05-19T13:14:36.515Z,61.0992,-146.7508,44.6,1.3,ml,,,,0.64,ak,ak0216e3iyct,2021-06-02T21:16:02.218Z,"21 km W of Valdez, Alaska",earthquake,,1.5,,,automatic,ak,ak,8
+702,2021-05-18T21:43:09.903Z,61.2564,-147.6889,16.9,1.6,ml,,,,1.32,ak,ak0216ckx8ey,2021-06-02T21:15:51.233Z,"61 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak,6
+708,2021-05-16T03:03:54.823Z,61.2263,-147.5883,17.6,0.9,ml,,,,0.9,ak,ak02168yw9cq,2021-06-14T18:53:05.436Z,"63 km NW of Tatitlek, Alaska",earthquake,,1.0,,,reviewed,ak,ak,5
+718,2021-05-09T17:26:51.571Z,61.1632,-146.6186,43.4,1.5,ml,,,,1.2,ak,ak0215xmltl1,2021-06-02T21:13:41.740Z,"14 km WNW of Valdez, Alaska",earthquake,,3.8,,,automatic,ak,ak,8
+722,2021-05-06T12:33:52.148Z,61.1653,-147.2322,61.1,1.7,ml,,,,1.29,ak,ak0215sl244t,2021-06-02T21:13:04.913Z,"44 km NW of Tatitlek, Alaska",earthquake,,1.9,,,automatic,ak,ak,9
+735,2021-05-02T03:30:56.947Z,61.2483,-147.6209,0.0,1.5,ml,,,,1.02,ak,ak0215ltj6xq,2021-05-20T21:25:49.578Z,"62 km S of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak,7
+736,2021-05-02T01:57:59.398Z,61.1633,-147.4541,49.1,1.3,ml,,,,0.9,ak,ak0215lsi3xd,2021-05-20T21:25:48.157Z,"53 km NW of Tatitlek, Alaska",earthquake,,2.7,,,automatic,ak,ak,7
+831,2021-03-17T06:17:02.403Z,61.1944,-147.0363,20.6,0.9,ml,,,,0.62,ak,ak0213hsimio,2021-04-05T17:34:08.533Z,"37 km W of Valdez, Alaska",earthquake,,2.3,,,reviewed,ak,ak,5
+861,2021-03-01T03:50:29.491Z,61.2131,-147.594,8.6,1.2,ml,,,,0.59,ak,ak0212rabwit,2021-03-20T23:18:57.742Z,"62 km NW of Tatitlek, Alaska",earthquake,,1.1,,,reviewed,ak,ak,8
+883,2021-02-16T02:29:55.941Z,61.2525,-147.3818,27.8,1.8,ml,,,,0.97,ak,ak02125rmii2,2021-02-16T02:34:32.732Z,"57 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak,11
+892,2021-02-06T17:26:26.207Z,61.1705,-146.8837,1.3,1.5,ml,,,,0.69,ak,ak0211ph5u94,2021-02-18T04:38:55.843Z,"29 km W of Valdez, Alaska",earthquake,,0.9,,,reviewed,ak,ak,8
+893,2021-02-06T02:45:25.774Z,61.1698,-146.8848,2.0,1.4,ml,,,,0.78,ak,ak0211p8ceqw,2021-02-18T04:38:44.825Z,"29 km W of Valdez, Alaska",earthquake,,0.3,,,reviewed,ak,ak,6
+1025,2020-11-13T20:41:00.108Z,61.2411,-147.6678,0.0,1.5,ml,,,,0.72,ak,ak020em91tsk,2020-12-04T23:15:06.874Z,"63 km S of Glacier View, Alaska",earthquake,,0.0,,,reviewed,ak,ak,11
+1028,2020-11-12T07:59:23.077Z,61.4393,-146.6314,14.2,1.0,ml,,,,0.72,ak,ak020ekdvqsz,2020-12-01T01:07:21.125Z,"37 km NNW of Valdez, Alaska",earthquake,,0.9,,,reviewed,ak,ak,3
+1047,2020-11-03T07:36:13.558Z,61.0142,-147.6165,23.1,1.2,ml,,,,0.51,ak,ak020e5hwo5n,2020-11-26T00:47:24.268Z,"53 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,reviewed,ak,ak,3
+1048,2020-11-02T01:44:25.415Z,61.4344,-146.8346,7.0,1.0,ml,,,,0.32,ak,ak020e3qugod,2020-11-19T00:55:51.384Z,"42.7 km SE of Valdez, AK",earthquake,,0.3,,,reviewed,ak,ak,3
+1155,2020-09-19T08:06:59.174Z,61.2237,-146.308,19.3,1.0,ml,,,,0.6,ak,ak020c3355kt,2020-10-03T18:14:13.903Z,"10 km NNE of Valdez, Alaska",earthquake,,0.3,,,reviewed,ak,ak,3
+1157,2020-09-19T07:37:04.488Z,61.2011,-146.2875,14.7,1.0,ml,,,,0.61,ak,ak020c32q8y8,2020-10-03T18:14:12.954Z,"8 km NNE of Valdez, Alaska",earthquake,,0.2,,,reviewed,ak,ak,4
+1189,2020-09-06T17:30:54.621Z,61.5233,-146.3448,30.5,1.1,ml,,,,0.55,ak,ak020bhqnnor,2020-09-18T22:49:33.520Z,"43 km N of Valdez, Alaska",earthquake,,0.8,,,reviewed,ak,ak,4
+1204,2020-08-25T12:18:26.136Z,61.1552,-147.4805,0.5,1.4,ml,,,,0.74,ak,ak020axt5ptd,2020-09-19T18:22:59.990Z,"54 km NW of Tatitlek, Alaska",earthquake,,0.3,,,reviewed,ak,ak,11
+1209,2020-08-22T14:34:35.259Z,61.2312,-147.5259,28.2,1.0,ml,,,,0.66,ak,ak020asvtzl1,2020-08-22T22:37:14.917Z,"61 km NW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak,10
+1265,2020-07-29T06:30:31.701Z,61.2677,-147.212,7.3,1.0,ml,,,,0.6,ak,ak0209p25bsf,2020-08-10T16:13:11.848Z,"48 km WNW of Valdez, Alaska",earthquake,,0.5,,,reviewed,ak,ak,8
+1267,2020-07-28T17:36:05.915Z,61.0128,-146.1413,3.3,1.1,ml,,,,0.64,ak,ak0209nl6ywx,2020-08-12T12:10:17.886Z,Southern Alaska,earthquake,,0.8,,,reviewed,ak,ak,3
+1333,2020-07-05T19:53:21.996Z,61.1781,-146.946,7.3,1.6,ml,,,,0.49,ak,ak0208ll4jig,2020-07-10T23:20:37.747Z,"32 km W of Valdez, Alaska",earthquake,,0.4,,,reviewed,ak,ak,5
+1402,2020-06-06T08:19:15.194Z,61.2231,-147.4188,6.9,1.0,ml,,,,0.8,ak,ak02079fsdpc,2020-06-12T02:32:02.770Z,"56 km NW of Tatitlek, Alaska",earthquake,,0.5,,,reviewed,ak,ak,8
+1471,2020-04-29T14:38:13.997Z,61.2599,-147.6556,9.0,1.3,ml,,,,0.63,ak,ak0205ip1qos,2020-05-13T06:19:47.729Z,"61 km S of Glacier View, Alaska",earthquake,,0.7,,,reviewed,ak,ak,8
+1556,2020-03-25T00:47:43.965Z,61.161,-147.2135,9.4,1.0,ml,,,,0.44,ak,ak0203wkynzh,2020-04-11T06:17:04.360Z,"43 km NW of Tatitlek, Alaska",earthquake,,0.4,,,reviewed,ak,ak,3
+1610,2020-02-28T06:46:29.251Z,61.1972,-147.7369,16.8,1.6,ml,,,,0.5,ak,ak0202pojzu9,2020-03-17T11:12:44.695Z,"68 km WNW of Tatitlek, Alaska",earthquake,,0.8,,,reviewed,ak,ak,5
+1699,2020-01-04T11:45:33.892Z,61.4594,-147.2781,12.0,1.5,ml,,,,0.8,ak,ak0206syvk9,2020-01-10T23:19:23.431Z,"43 km SSE of Glacier View, Alaska",earthquake,,0.3,,,reviewed,ak,ak,4
+1769,2019-11-24T09:31:26.968Z,61.1862,-146.8928,0.0,1.3,ml,,,,0.63,ak,ak019f2ltfpp,2019-11-24T22:35:33.980Z,"29 km WNW of Valdez, Alaska",earthquake,,0.0,,,reviewed,ak,ak,7
+1859,2019-10-13T06:47:33.227Z,61.2211,-147.5642,56.0,1.4,ml,,,,1.26,ak,ak019d53k0go,2019-11-08T01:25:17.758Z,"62 km NW of Tatitlek, Alaska",earthquake,,1.4,,,automatic,ak,ak,9
+1965,2019-08-21T04:26:19.952Z,61.2682,-146.8414,15.0,0.8,ml,,,,0.42,ak,ak019aper7in,2019-09-18T18:17:56.789Z,"30 km WNW of Valdez, Alaska",earthquake,,0.8,,,reviewed,ak,ak,3
+2036,2019-07-17T17:02:19.595Z,61.2318,-147.4964,0.0,1.2,ml,,,,0.81,ak,ak01993qjk20,2019-08-10T21:05:08.166Z,"60 km NW of Tatitlek, Alaska",earthquake,,0.0,,,reviewed,ak,ak,5
+2121,2019-06-05T00:23:12.595Z,61.2434,-147.6516,0.0,1.5,ml,,,,0.73,ak,ak01975zz3h7,2019-07-04T01:51:47.572Z,"62 km S of Glacier View, Alaska",earthquake,,0.0,,,reviewed,ak,ak,6
+2129,2019-05-31T18:25:31.205Z,61.1636,-146.9361,0.9,1.2,ml,,,,0.71,ak,ak0196y10mr7,2019-06-17T16:58:49.088Z,"31 km W of Valdez, Alaska",earthquake,,14.2,,,reviewed,ak,ak,3
+2146,2019-05-21T14:49:38.297Z,61.2129,-147.1261,0.0,1.4,ml,,,,0.52,ak,ak0196hfelbk,2019-06-12T22:21:13.856Z,"42 km WNW of Valdez, Alaska",earthquake,,0.0,,,reviewed,ak,ak,9
+2172,2019-05-05T01:02:32.481Z,61.2572,-147.7466,7.5,1.2,ml,,,,0.73,ak,ak0195qqsb9s,2019-05-14T02:52:30.235Z,"61 km S of Glacier View, Alaska",earthquake,,1.2,,,reviewed,ak,ak,5
+2209,2019-04-17T02:38:24.984Z,61.1066,-147.1431,19.8,1.0,ml,,,,0.89,ak,ak0194wzx75p,2019-08-21T20:23:08.288Z,"36 km NW of Tatitlek, Alaska",earthquake,,0.8,,,reviewed,ak,ak,8
+2247,2019-03-30T12:52:50.433Z,60.9681,-147.6238,54.5,1.1,ml,,,,0.7,ak,ak01943eacme,2019-04-26T02:27:02.347Z,"52 km WNW of Tatitlek, Alaska",earthquake,,1.8,,,reviewed,ak,ak,4
+2251,2019-03-28T10:48:23.153Z,61.2073,-147.8216,0.0,0.8,ml,,,,0.62,ak,ak019401zv63,2019-04-24T21:30:33.104Z,"64 km ESE of Knik River, Alaska",earthquake,,0.0,,,reviewed,ak,ak,6
+2254,2019-03-26T18:15:52.608Z,61.4128,-146.9321,42.5,1.7,ml,,,,0.69,ak,ak0193wvhmnw,2019-03-26T18:23:34.633Z,"44 km NW of Valdez, Alaska",earthquake,,1.6,,,automatic,ak,ak,8
+2354,2019-02-03T09:37:22.665Z,61.0502,-147.6672,28.5,1.4,ml,,,,1.13,ak,ak0191kduoh6,2019-02-03T09:41:10.239Z,"57 km WNW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak,8
+2362,2019-01-27T22:52:58.958Z,61.2197,-147.1498,9.2,1.6,ml,,,,1.18,ak,ak019190x6fb,2019-01-27T22:56:27.794Z,"44 km WNW of Valdez, Alaska",earthquake,,1.0,,,automatic,ak,ak,9
+2560,2018-10-19T10:02:42.015Z,61.1797,-147.1344,16.2,1.3,ml,,,,0.48,ak,ak018df2w6x5,2019-07-01T18:58:21.062Z,"42 km W of Valdez, Alaska",earthquake,,1.2,,,reviewed,ak,ak,4
+2646,2018-09-24T02:43:17.053Z,61.1615,-147.5092,4.2,1.3,ml,,,,0.85,ak,ak018c9lxs61,2019-12-03T21:26:13.945Z,"55 km NW of Tatitlek, Alaska",earthquake,,0.6,,,reviewed,ak,ak,7
+2648,2018-09-23T19:42:42.283Z,61.1798,-147.6163,15.2,1.5,ml,,,,0.67,ak,ak018c88in6s,2019-12-03T21:26:00.794Z,"61 km NW of Tatitlek, Alaska",earthquake,,1.3,,,reviewed,ak,ak,3
+2687,2018-09-10T18:18:21.356Z,61.3087,-147.6329,4.9,1.5,ml,,,,1.12,ak,ak20250460,2018-09-11T17:01:06.565Z,"55 km S of Glacier View, Alaska",earthquake,,0.9,,,automatic,ak,ak,4
+2696,2018-09-09T06:17:55.427Z,60.8677,-147.1438,23.5,1.9,ml,,,,0.71,ak,ak20247983,2018-09-11T17:00:24.995Z,"25 km W of Tatitlek, Alaska",earthquake,,0.7,,,automatic,ak,ak,5
+2711,2018-09-05T20:36:42.856Z,61.218,-147.6694,131.2,2.6,ml,,,,1.07,ak,ak20243211,2018-09-11T16:58:48.033Z,"65 km S of Glacier View, Alaska",earthquake,,1.2,,,automatic,ak,ak,4
+2715,2018-09-05T04:19:41.694Z,61.2333,-147.5439,13.1,1.0,ml,,,,0.54,ak,ak20241948,2018-09-11T16:58:24.589Z,"62 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak,8
