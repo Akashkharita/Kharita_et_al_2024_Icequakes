@@ -4,8 +4,8 @@
 ---
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This github repository contains all the jupyter notebooks for the ongoing work about **"Discrimination between icequakes and earthquakes in southern Alaska: an exploration of waveform features using random forest algorithm"**
-Manuscript is submitted to Geophysical Journal International. 
+This github repository contains all the jupyter notebooks for the submitted work about **"Discrimination between icequakes and earthquakes in southern Alaska: an exploration of waveform features using random forest algorithm"**
+The manuscript is submitted to Geophysical Journal International (GJI). 
 
 
 ### Creating the environment
