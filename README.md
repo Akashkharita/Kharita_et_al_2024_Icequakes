@@ -1,5 +1,5 @@
 
-# Icequake_Earthquake_Discrimination
+# Discrimination between icequakes and earthquakes in southern Alaska: an exploration of waveform features using random forest algorithm
 
 ----
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
