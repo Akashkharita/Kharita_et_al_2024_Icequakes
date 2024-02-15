@@ -1,6 +1,7 @@
 
 # Icequake_Earthquake_Discrimination
-This github repository contains all the jupyter notebooks for the ongoing work about **"Multi Stations Analysis of Icequakes and Earthquakes in Southern Alaska"**. 
+This github repository contains all the jupyter notebooks for the ongoing work about **"Discrimination between icequakes and earthquakes in southern Alaska: an exploration of waveform features using random forest algorithm"**
+Manuscript is submitted to Geophysical Journal International. 
 
 
 ### Creating the environment
