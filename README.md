@@ -60,6 +60,6 @@ This notebook contains the code for hyperparameter tuning of the models at indiv
 
 
 ## Report Bugs
-
+If you find inconsistencies in the code or have any question, please open the issue here or contact me at my email (ak287@uw.edu).
 
 
