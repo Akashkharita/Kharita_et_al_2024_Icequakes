@@ -33,23 +33,33 @@ All the waveforms are detrended, tapered (by 10%) and filtered between (0.5-25 H
 
 1) I have named the downloaded icequakes and earthquakes for each station in a very specific way that helps me in processing. 
 2) A typical icequake waveform is named icequake(its number on catalog)_(station name).mseed
-   For example - icequake which appears at 244th in the USGS event catalog and recorded at stationn "SCM" will be named as icequake244_SCM.mseed
-3) Same naming convention applies for the earthquake waveforms
+   For example - icequake that appears at 244th in the USGS event catalog and is recorded at station "SCM" will be named icequake244_SCM.mseed
+3) The same naming convention applies to the earthquake waveforms
 
  
 ### Description of tasks of Jupyter Notebooks
 
-**[Final_features_performance_comparisons.ipynb](https://github.com/Akashkharita/Icequake_Earthquake_Discrimination/blob/main/Final_feature_performance_comparisons.ipynb)**
-This notebook shows the comparison of performances (accuracy, sensitivity and specificity) with statistical, temporal, spectral and AFS features with imbalanced and balanced classes. 
+**[Feature_Performance_Comparisons.ipynb](https://github.com/Akashkharita/Kharita_et_al_2024_Icequakes/blob/6f6a027adc2b9086d55ee1f3db4b65e53b89284f/Notebooks/Feature_Performance_Comparisons.ipynb)**
+This notebook presents a comparison of performance metrics (accuracy, sensitivity, and specificity) using statistical (Tsfel), temporal (Tsfel), spectral (Tsfel), all features from Tsfel, AFS, and physical features in scenarios involving imbalanced and balanced classes. 
 
-**[Final_transfer_learning](https://github.com/Akashkharita/Icequake_Earthquake_Discrimination/blob/main/Final_Transfer_Learning.ipynb)**
-This notebook shows the performance of a machine learning model trained on one station and tested on the another using "all" features for 1 minute duration of the waveforms. Further it contains codes for showing the waveforms and spectrograms for stations in each group. 
+**[Ttransfer_Learning](https://github.com/Akashkharita/Kharita_et_al_2024_Icequakes/blob/6f6a027adc2b9086d55ee1f3db4b65e53b89284f/Notebooks/Transfer_Learning.ipynb)**
+This notebook shows the performance of a machine learning model trained on one station and tested on another using "all" features for the 1-minute duration of the waveforms. Further, it contains codes for showing the waveforms and spectrograms for stations in each group. 
 
-**[Final duration_testing](https://github.com/Akashkharita/Icequake_Earthquake_Discrimination/blob/main/Final_duration_testing.ipynb)**
-This notebook shows the performance with different durations (15, 30, 45s, 1min and 2minutes). 30s appear to produce best results, Performance in general decreases with increasing duration, however there isnt any significant difference in the results. 
+**[Feature_importances_and_selection](https://github.com/Akashkharita/Kharita_et_al_2024_Icequakes/blob/6f6a027adc2b9086d55ee1f3db4b65e53b89284f/Notebooks/Feature_importances_and_selection.ipynb)**
+This notebook show the feature importance in different feature sets at different stations, It also shows the distribution of the top 5 features for different feature sets and different stations. Further it shows the performance variation with the cumulative number of the most important features.  
 
-**[Final_missclassified_events](https://github.com/Akashkharita/Icequake_Earthquake_Discrimination/blob/main/Final_misclassified_events.ipynb))**
-This notebook contains the code to plot the missclassified event along with the prediction probabilities. Two type of plots - first plot is of missclassified events only, second plot contains all the plots with prediction probabilities less than 0.5. 
+**[Feature_Computation_Time](https://github.com/Akashkharita/Kharita_et_al_2024_Icequakes/blob/6f6a027adc2b9086d55ee1f3db4b65e53b89284f/Notebooks/Feature_Computation_Time.ipynb)**
+This notebook shows the feature computational time for different durations (15, 30, 45s, 1min and 2minutes) of input waveforms and for different set of features.
+
+**[Analysis_of_potentially_mislabeled_events](https://github.com/Akashkharita/Kharita_et_al_2024_Icequakes/blob/6f6a027adc2b9086d55ee1f3db4b65e53b89284f/Notebooks/Analysis_of_potentially_mislabeled_events.ipynb)**
+This notebook contains the code for identifying potentially mislabeled events that were consistently misclassified with high probabilities at multiple stations. The code also plots the waveforms and spectrograms of such events. 
+
+
+**[Hyperparameter_Tuning_and_Comparison_with_other_ML_Models](https://github.com/Akashkharita/Kharita_et_al_2024_Icequakes/blob/6f6a027adc2b9086d55ee1f3db4b65e53b89284f/Notebooks/Hyperparameter_Tuning_and_Comparison_with_other_ML_Models.ipynb)**
+This notebook contains the code for hyperparameter tuning of the models at individual station. It also shows the comparison of the selected model with other machine learning models. 
+
+
+## Report Bugs
 
 
 
